@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Muhammad Gohar
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF71F&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Gohar+Qamar">
 
 > A 17-year-old **developer**, **AI builder**, **founder**, and **school leader** from Lahore, Pakistan — driven by code, powered by purpose.
 
@@ -89,5 +89,11 @@ And I’m doing exactly that — every single day.
 
 > “I don’t wait for the future —
 > I code it.”
+
+---
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadgohar-official&theme=github_dark">
+</div>
 
 ---
